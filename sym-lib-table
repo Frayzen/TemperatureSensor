@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WL-T7DS_0.39INCH_COMMON-ANODE")(type "KiCad")(uri "${KICAD9_SYMBOL_DIR}/WL-T7DS_0.39INCH_COMMON-ANODE.kicad_sym")(options "")(descr ""))
+)
