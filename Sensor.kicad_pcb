@@ -590,7 +590,7 @@
 		(at 168 136.34)
 		(descr "Single digit 7 segment LED display in red, yellow or green colour http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf")
 		(tags "One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12")
-		(property "Reference" "U11"
+		(property "Reference" "SEG3"
 			(at 3.81 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "def12045-1567-42ff-a4ca-0845095af9be")
@@ -933,7 +933,7 @@
 		(at 146.3175 136.5475)
 		(descr "Single digit 7 segment LED display in red, yellow or green colour http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf")
 		(tags "One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12")
-		(property "Reference" "U12"
+		(property "Reference" "SEG2"
 			(at 3.81 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "2d5a85c0-9284-4b08-8cba-8e3d1c8f0197")
@@ -1475,7 +1475,7 @@
 		(at 125 136.38)
 		(descr "Single digit 7 segment LED display in red, yellow or green colour http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf")
 		(tags "One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12")
-		(property "Reference" "U13"
+		(property "Reference" "SEG1"
 			(at 3.81 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "8988f825-14f4-45e3-a966-acf942c4b9ed")
